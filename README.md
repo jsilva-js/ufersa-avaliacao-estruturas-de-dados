@@ -1,24 +1,25 @@
-# Laboratório de Algoritmos e Estruturas de Dados 2 - 1ª Avaliação
+# 1ª Avaliação
+# Laboratório de Algoritmos e Estruturas de Dados 2
 
 Este repositório é para a 1ª avaliação da disciplina <strong>Laboratório de Algoritmos e Estruturas de Dados 2<strong>.
 
-## Instruções da avaliação
+## Instruções da Avaliação
 
 * Todas as 10 questões deverão ser resolvidas;
 * Os códigos deverão estar no GITHUB e o link com os algoritmos deverá ser enviado até o dia 4 de março;
 * Deverão ser utilizados o GDB para mostrar o código funcionando;
 
-## Introdução
+## Organização
+
+A resolução e o código das questões da lista, estão na pasta principal com o nome correspondente a cada questão. Por exemplo: questao-01, questao-02, etc.
+
+## Método de Resolução
 
 Para a resolução de todas as questões dessa lista foi utilizando a metodologia apresentada no diagrama da figura abaixo:
 
 ![Fluxograma](./src/images/fluxograma.png)
 
-## Organização das listas
-
-A resolução e o código das questões da lista, estão na pasta principal com o nome correspondente a cada questão. Por exemplo: questao-01, questao-02, etc.
-
-## Questões
+## Lista
 
 1. Uma aplicação interessante de computadores é desenhar gráficos e gráficos de barras. Escreva um programa que leia cinco números (cada um entre 1 e 30). Para cada número lido, o seu programa deve imprimir uma linha contendo aquele número de asteriscos adjacentes. Por exemplo, se o seu programa lê o número sete, ele deve imprimir *******.
 
