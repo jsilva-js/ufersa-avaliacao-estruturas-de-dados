@@ -5,12 +5,12 @@ Este repositório é para a 1ª avaliação da disciplina <strong>Laboratório d
 ## Instruções da avaliação
 
 * Todas as 10 questões deverão ser resolvidas;
-* Os códigos deverão estar no GITGUB e o link com os algoritmos deverá ser enviado até o dia 4 de março;
+* Os códigos deverão estar no GITHUB e o link com os algoritmos deverá ser enviado até o dia 4 de março;
 * Deverão ser utilizados o GDB para mostrar o código funcionando;
 
 ## Introdução
 
-Para a resolução de todas as questões dessa lista foi utilizando a metodologia apresentada no diagrama da figura:
+Para a resolução de todas as questões dessa lista foi utilizando a metodologia apresentada no diagrama da figura abaixo:
 
 ![Fluxograma](./src/images/fluxograma.png)
 
