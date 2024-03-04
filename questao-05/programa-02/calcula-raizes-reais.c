@@ -20,7 +20,6 @@ int main() {
 
     printf("Digite os coeficientes (a, b, c) da função do segundo grau: ");
     scanf("%d %d %d", &a, &b, &c);
-
     calcularRaizesReais(a, b, c);
 
     return 0;
