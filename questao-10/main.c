@@ -11,6 +11,7 @@ int A(int m, int n) {
     }
 }
 
+
 // Função auxiliar para imprimir os resultados para A(x, y)
 void imprimirResultados(int a, int b) {
     for (int x = 0; x < a; x++) {
