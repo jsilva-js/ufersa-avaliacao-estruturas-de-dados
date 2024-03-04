@@ -14,7 +14,7 @@ int inverterDigitos(int numero) {
 int main() {
     int numeroOriginal, numeroInvertido;
 
-    printf("Digite um numero inteiro: ");
+    printf("Digite um valor inteiro: ");
     scanf("%d", &numeroOriginal);
 
     // chama a função para inverter os dígitos
